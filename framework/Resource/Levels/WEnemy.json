@@ -1,0 +1,17 @@
+{
+  "WEnemy": {
+    "Transform": {
+      "Scale": [ 3.0, 3.0, 3.0 ],
+      "Translate": [ 0.0, 0.0, 0.0 ]
+    },
+    "Asset": {
+      "Shape": "Box",
+      "Diffuse": [ 1.0, 1.0, 0.0 ]
+    },
+    "Body": {
+      "BScale": [ 3.0, 3.0, 3.0 ],
+      "ShapeX": "AABB",
+      "IsPhysicsObject": true
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Switch": {
+    "Transform": {
+      "Scale": [ 3.0, 3.0, 0.01 ],
+      "Translate": [ 0.0, 0.0, 10.0 ]
+    },
+    "Asset": {
+      "Shape": "Box"
+
+    },
+    "Body": {
+      "BScale": [ 3.0, 3.0, 0.01 ],
+      "ShapeX": "AABB",
+      "IsPhysicsObject": false,
+      "Friction": 0.80
+    }
+  }
+}

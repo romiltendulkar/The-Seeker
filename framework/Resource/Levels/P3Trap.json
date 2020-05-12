@@ -1,0 +1,19 @@
+{
+  "P3Trap": {
+    "Transform": {
+      "Scale": [ 2.0, 2.0, 2.0 ],
+      "Translate": [ 0.0, 0.0, 0.0 ]
+    },
+    "Asset": {
+        "Shape": "Box",
+        "Texture": "TexturesCom_WetSand6_4x4_1K_albedo.tif"
+
+    },
+    "Body": {
+      "BScale": [ 2.0, 2.0, 2.0 ],
+      "ShapeX": "AABB",
+      "IsPhysicsObject": false,
+      "Friction": 0.80
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "Charger": {
+    "Sleep": true,
+    "Transform": {
+      "Scale": [ 3.0, 3.0, 3.0 ],
+      "Translate": [ 0.0, 0.0, 0.0 ]
+    },
+    "Asset": {
+      "Shape": "Obj",
+      "Model": "Enemy_Charger.obj",
+      "Rotated": true,
+      "MaterialID": 0
+    },
+    "Body": {
+      "BScale": [ 3.0, 3.0, 3.0 ],
+      "ShapeX": "AABB",
+      "IsPhysicsObject": true,
+      "Friction": 0.80
+    }
+  }
+}

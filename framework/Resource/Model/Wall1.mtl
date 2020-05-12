@@ -1,0 +1,16 @@
+# Exported from 3D Builder
+
+newmtl lambert2SG_0
+Kd 0.210000 0.240000 0.330000
+
+newmtl lambert3SG_0
+Kd 0.060000 0.240000 0.210000
+
+newmtl phongE1SG_0
+Kd 0.090000 0.480000 0.510000
+
+newmtl initialShadingGroup_0
+Kd 0.240000 0.390000 0.360000
+
+newmtl phong1SG_0
+Kd 0.120000 0.180000 0.360000

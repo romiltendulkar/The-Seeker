@@ -1,0 +1,11 @@
+{
+  "Platform": {
+    "Transform": {
+      "Scale": [ 1.0, 1.0, 1.0 ],
+      "Translate": [ -5.0, 2.0, 2.0 ]
+    },
+    "Asset": {
+      "Shape": "Cylinder"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "LootDrop": {
+      "WeaponDamage": 6.0,
+      "WeaponCrit": 10.0,
+      "WeaponLevel": 2.0,
+      "WeaponName": "SteelFists",
+    "Transform": {
+      "Scale": [ 2.0, 2.0, 1.0 ],
+      "Translate": [ 0.0, 0.0, 100.0 ]
+    },
+    "Asset": {
+        "Shape": "Obj",
+        "Model": "LootBox.obj",
+        "MaterialID": 0
+
+    },
+    "Body": {
+      "BScale": [ 2.0, 2.0, 1.0 ],
+      "ShapeX": "AABB",
+      "IsPhysicsObject": false,
+      "Friction": 0.80
+    }
+
+
+  }
+}

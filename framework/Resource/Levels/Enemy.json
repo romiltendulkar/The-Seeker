@@ -1,0 +1,23 @@
+{
+  "Enemy": {
+    "Transform": {
+      "Scale": [ 2.0, 2.0, 2.0 ],
+      "Translate": [ 0.0, 0.0, 0.0 ]
+    },
+    "Asset": {
+      "Shape": "Obj",
+      "Model": "goombamask.obj",
+      "Rotated": false,
+      "MaterialID": 0
+    },
+    "Body": {
+      "BScale": [ 2.0, 2.0, 2.0 ],
+      "ShapeX": "AABB",
+      "IsPhysicsObject": true,
+      "Friction": 0.80
+    },
+    "Goal": {
+      "Value" : 50
+    }
+  }
+}

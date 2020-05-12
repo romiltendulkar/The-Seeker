@@ -1,0 +1,63 @@
+{
+  "MainMenu": [
+    {
+      "Group": {
+        "isRoot": true,
+        "needDraw": false,
+        "Size": [ 1600, 1200 ],
+        "Position": [ -400, 300 ],
+        "Items": [
+          {
+            "Group": {
+              "isRoot": false,
+              "needDraw": true,
+              "OutLineDraw": false,
+              "Size": [ 200, 100 ],
+              "Position": [ 350, -400 ],
+              "Type": "Button",
+              "Texture": "button_play.png",
+              "FunctionType": 3
+            }
+          },
+          {
+            "Group": {
+              "isRoot": false,
+              "needDraw": true,
+              "OutLineDraw": false,
+              "Size": [ 200, 100 ],
+              "Position": [ 350, -460 ],
+              "Type": "Button",
+              "Texture": "button_controls.png",
+              "FunctionType": 2,
+              "TextureList": [ "controls.png" ]
+            }
+          },
+          {
+            "Group": {
+              "isRoot": false,
+              "needDraw": true,
+              "OutLineDraw": false,
+              "Size": [ 200, 100 ],
+              "Position": [ 350, -520 ],
+              "Type": "Button",
+              "Texture": "button_credits.png",
+              "FunctionType": 4
+            }
+          },
+          {
+            "Group": {
+              "isRoot": false,
+              "needDraw": true,
+              "OutLineDraw": false,
+              "Size": [ 200, 100 ],
+              "Position": [ 350, -580 ],
+              "Type": "Button",
+              "Texture": "button_quit.png",
+              "FunctionType": 1
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

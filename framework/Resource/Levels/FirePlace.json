@@ -1,0 +1,14 @@
+{
+    "FirePlace": {
+        "Transform": {
+            "Scale": [ 25.0, 25.0, 25.0 ],
+            "Translate": [ 0.0, 0.0, 0.0 ]
+        },
+      "Asset": {
+        "Shape": "Box",
+        "Rotated": false,
+        "MaterialID": 0,
+        "Texture": "TexturesCom_Grass0097_1_seamless_S.jpg"
+      }
+    }
+}

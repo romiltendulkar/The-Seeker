@@ -1,0 +1,20 @@
+{
+  "Shooter": {
+    "Transform": {
+      "Scale": [ 2.0, 2.0, 2.0 ],
+      "Translate": [ 0.0, 0.0, 0.0 ]
+    },
+    "Asset": {
+      "Shape": "Obj",
+      "Model": "Enemy_Shooter.obj",
+      "Rotated": true,
+      "MaterialID": 0
+    },
+    "Body": {
+      "BScale": [ 2.0, 2.0, 2.0 ],
+      "ShapeX": "AABB",
+      "IsPhysicsObject": true,
+      "Friction": 0.80
+    }
+  }
+}

@@ -1,0 +1,400 @@
+{
+  "AiStuff": [
+    {
+      "DataFile": "Right",
+      "Transform": {
+        "Translate": [ 0.0, 0.0, 15.0 ]
+      }
+    },
+    {
+      "DataFile": "Left",
+      "Transform": {
+        "Translate": [ 5.0, 0.0, 15.0 ]
+      }
+    },
+    {
+      "DataFile": "Player",
+      "Transform": {
+        "Translate": [ 0.0, 0.0, 5.0 ]
+      }
+    },
+    {
+      "DataFile": "Enemy",
+      "Transform": {
+        "Translate": [ 5.0, 0.0, 5.0 ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Translate": [ 0.0, 0.0, 2.0 ],
+        "Scale": [ 100.0, 100.0, 1.0 ]
+      },
+      "Body": {
+        "BScale": [ 100.0, 100.0, 1.0 ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Translate": [ 0.0, 0.0, 2.0 ],
+        "Scale": [ 100.0, 100.0, 1.0 ]
+      },
+      "Body": {
+        "BScale": [ 100.0, 100.0, 1.0 ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Translate": [ 0.0, 5.0, 5.0 ],
+        "Scale": [ 10.0, 1.0, 5.0 ]
+      },
+      "Body": {
+        "BScale": [ 10.0, 1.0, 5.0 ]
+      },
+      "Asset": {
+        "Diffuse": [ 1.0, 0.0, 0.0 ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Translate": [ -5.5, 0.0, 5.0 ],
+        "Scale": [ 1.0, 10.0, 5.0 ]
+      },
+      "Body": {
+        "BScale": [ 1.0, 10.0, 5.0 ]
+      },
+      "Asset": {
+        "Diffuse": [ 1.0, 0.0, 0.0 ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Translate": [ 0.0, -5.0, 5.0 ],
+        "Scale": [ 10.0, 1.0, 5.0 ]
+      },
+      "Body": {
+        "BScale": [ 10.0, 1.0, 5.0 ]
+      },
+      "Asset": {
+        "Diffuse": [ 1.0, 0.0, 0.0 ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Translate": [ 7.550, 5.0, 5.0 ],
+        "Scale": [ 5.0, 1.0, 5.0 ]
+      },
+      "Body": {
+        "BScale": [ 5.0, 1.0, 5.0 ]
+      },
+      "Asset": {
+        "Diffuse": [ 1.0, 0.0, 0.0 ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Translate": [ 7.550, -5.0, 5.0 ],
+        "Scale": [ 5.0, 1.0, 5.0 ]
+      },
+      "Body": {
+        "BScale": [ 5.0, 1.0, 5.0 ]
+      },
+      "Asset": {
+        "Diffuse": [ 1.0, 0.0, 0.0 ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Translate": [ 16.4, -7.6, 5.0 ],
+        "Scale": [ 5.0, 5.0, 5.0 ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Translate": [ 21.4, -8.8, 5.0 ],
+        "Scale": [ 5.0, 5.0, 5.0 ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Translate": [ 25.4, -8.8, 5.0 ],
+        "Scale": [ 5.0, 5.0, 5.0 ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Translate": [ 16.4, 6.7, 5.0 ],
+        "Scale": [ 5.0, 5.0, 5.0 ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Translate": [ 21.4, 6.7, 5.0 ],
+        "Scale": [ 5.0, 5.0, 5.0 ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Translate": [ 25.4, 6.7, 5.0 ],
+        "Scale": [ 5.0, 5.0, 5.0 ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Translate": [ 15.05, 5.0, 5.0 ],
+        "Scale": [ 0.0, 0.0, 0.0 ]
+      },
+      "Body": {
+        "BScale": [ 10.0, 1.0, 5.0 ]
+      },
+      "Asset": {
+        "Diffuse": [ 1.0, 0.0, 0.0 ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Translate": [ 15.05, -5.0, 5.0 ],
+        "Scale": [ 0.0, 0.0, 0.0 ]
+      },
+      "Body": {
+        "BScale": [ 10.0, 1.0, 5.0 ]
+      },
+      "Asset": {
+        "Diffuse": [ 1.0, 0.0, 0.0 ]
+      }
+    }
+
+        {
+            "DataFile": "FirePlace",
+            "Transform": {
+                "Translate": [ 31.0, -2.0, 2.5 ],
+                "Scale": [ 37.0, 41.0, 0.5 ]
+            }
+        },
+        {
+            "DataFile": "FirePlace",
+            "Transform": {
+                "Translate": [ -31.750, 6.8, 2.5 ],
+                "Scale": [ 35.7, 28.6, 0.5 ]
+            }
+        },
+        {
+            "DataFile": "FirePlace",
+            "Transform": {
+                "Translate": [ 8, 39.7, 2.5 ],
+                "Scale": [ 58.4, 17.4, 0.5 ]
+            },
+            "Asset": {
+                "Shape": "Obj",
+                "Model": "10450_Rectangular_Grass_Patch_v1_iterations-2.obj",
+                "Rotated": false,
+                "MaterialID": 0,
+                "Texture": "10450_Rectangular_Grass_Patch_v1_Diffuse.jpg"
+            }
+        },
+        {
+            "DataFile": "FirePlace",
+            "Transform": {
+                "Translate": [ 28.5, -41.3, 2.5 ],
+                "Scale": [ 42.0, 17.0, 0.5 ]
+            }
+        },
+        {
+            "DataFile": "FirePlace",
+            "Transform": {
+                "Translate": [ -36.5, 0.4, 6 ],
+                "Scale": [ 11.0, 11.5, 5.0 ]
+            },
+            "Asset": {
+                "Shape": "Obj",
+                "Model": "WoodenCabinObj.obj",
+                "Rotated": true,
+                "MaterialID": 0,
+                "Texture": "WoodCabinDif.jpg"
+
+            }
+        },
+        {
+            "DataFile": "FirePlace",
+            "Transform": {
+                "Translate": [ -17.1, -36.3, 6 ],
+                "Scale": [ 11.0, 11.5, 5.0 ]
+            },
+            "Asset": {
+                "Shape": "Obj",
+                "Model": "WoodenCabinObj.obj",
+                "Rotated": true,
+                "MaterialID": 0,
+                "Texture": "WoodCabinDif.jpg"
+
+            }
+        },
+        {
+            "DataFile": "FirePlace",
+            "Transform": {
+                "Translate": [ 27.9, -41.6, 6 ],
+                "Scale": [ 11.0, 11.5, 5.0 ]
+            },
+            "Asset": {
+                "Shape": "Obj",
+                "Model": "WoodenCabinObj.obj",
+                "Rotated": true,
+                "MaterialID": 0,
+                "Texture": "WoodCabinDif.jpg"
+
+            }
+        },
+        {
+            "DataFile": "FirePlace",
+            "Transform": {
+                "Translate": [ 31.6, -3.6, 6 ],
+                "Scale": [ 15.0, 18.5, 5.0 ]
+            },
+            "Asset": {
+                "Shape": "Obj",
+                "Model": "WoodenCabinObj.obj",
+                "Rotated": true,
+                "MaterialID": 0,
+                "Texture": "WoodCabinDif.jpg"
+
+            }
+        },
+        {
+            "DataFile": "Tree",
+            "Transform": {
+                "Translate": [ 30.4, 39.6, 3.0 ],
+                "Scale": [ 10.0, 10.0, 10.0 ]
+            }
+        },
+        {
+            "DataFile": "Tree",
+            "Transform": {
+                "Translate": [ 17.8, 39, 3.0 ],
+                "Scale": [ 10.0, 10.0, 10.0 ]
+            }
+        },
+        {
+            "DataFile": "Tree",
+            "Transform": {
+                "Translate": [ 1.6, 39.6, 3.0 ],
+                "Scale": [ 10.0, 10.0, 10.0 ]
+            }
+        },
+        {
+            "DataFile": "Tree",
+            "Transform": {
+                "Translate": [ -10.2, 40, 3.0 ],
+                "Scale": [ 10.0, 10.0, 10.0 ]
+            }
+        },
+        {
+            "DataFile": "Tree",
+            "Transform": {
+                "Translate": [ 25.4, 39.6, 3.0 ],
+                "Scale": [ 10.0, 10.0, 10.0 ]
+            }
+        },
+        {
+            "DataFile": "Tree",
+            "Transform": {
+                "Translate": [ 10.4, 39, 3.0 ],
+                "Scale": [ 10.0, 10.0, 10.0 ]
+            }
+        },
+        {
+            "DataFile": "Tree",
+            "Transform": {
+                "Translate": [ -1.2, 40, 3.0 ],
+                "Scale": [ 10.0, 10.0, 10.0 ]
+            }
+        },
+        {
+            "DataFile": "Tree",
+            "Transform": {
+                "Translate": [ 5.2, 39.6, 3.0 ],
+                "Scale": [ 10.0, 10.0, 10.0 ]
+            }
+        },
+        {
+            "DataFile": "Tree",
+            "Transform": {
+                "Translate": [ 15.2, 40, 3.0 ],
+                "Scale": [ 10.0, 10.0, 10.0 ]
+            }
+        },
+        {
+            "DataFile": "Tree",
+            "Transform": {
+                "Translate": [ -15.2, 40, 3.0 ],
+                "Scale": [ 10.0, 10.0, 10.0 ]
+            }
+        },
+        {
+            "DataFile": "Tree",
+            "Transform": {
+                "Translate": [ -5.2, 39, 3.0 ],
+                "Scale": [ 10.0, 10.0, 10.0 ]
+            }
+        },
+        {
+            "DataFile": "FirePlace",
+            "Transform": {
+                "Translate": [ 0, 0, 6.5 ],
+                "Scale": [ 150, 150, 200 ]
+            },
+            "Asset": {
+                "Shape": "FBX",
+                "Model": "terrain.fbx",
+                "Rotated": true,
+                "MaterialID": 0,
+                "Texture": "terrrrrrrrrain.jpg"
+
+            }
+        },
+        {
+            "DataFile": "Platform",
+            "Transform": {
+                "Translate": [ -0.35, 3.0, 3.0 ],
+                "Scale": [ 0.0, 0.0, 0.0 ]
+            },
+            "Body": {
+                "BScale": [ 8, 8, 8 ]
+            },
+            "Asset": {
+                "Diffuse": [ 1.0, 0.0, 0.0 ]
+            }
+        },
+        {
+            "DataFile": "FirePlace",
+            "Transform": {
+                "Translate": [ -0.35, 3.0, 6.0 ],
+                "Scale": [ 8, 8, 8 ]
+            },
+            "Asset": {
+                "Shape": "FBX",
+                "Model": "well.fbx",
+                "Rotated": false,
+                "MaterialID": 0,
+                "Diffuse": [ 1.0, 1.0, 0.0 ]
+
+            }
+        }
+
+
+
+    ]
+}

@@ -1,0 +1,15 @@
+{
+  "Right": {
+    "Transform": {
+      "Scale": [ 1.0, 1.0, 1.0 ],
+      "Translate": [ 0.0, 0.0, 0.0 ]
+    },
+
+    "Body": {
+      "BScale": [ 2, 2, 2 ],
+      "ShapeX": "AABB",
+      "IsPhysicsObject": false,
+      "Friction": 0.80
+    }
+  }
+}

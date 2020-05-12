@@ -1,0 +1,2471 @@
+{
+  "Level3": [
+    {
+      "DataFile": "Right",
+      "Transform": {
+        "Scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Translate": [
+          0.0,
+          0.0,
+          15.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Left",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          5.0,
+          0.0,
+          15.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Player",
+      "Transform": {
+        "Scale": [
+          3.5,
+          3.5,
+          3.5
+        ],
+        "Translate": [
+          75.0,
+          10.4,
+          8.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Stopper",
+      "Transform": {
+        "Translate": [
+          110.0,
+          108.4,
+          7.0
+        ]
+      }
+    },
+    {
+      "DataFile": "MovingPlatform",
+      "Transform": {
+        "Scale": [
+          5.5,
+          3.0,
+          1.0
+        ],
+        "Translate": [
+          118.5,
+          110.0,
+          7.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          5.5,
+          3.0,
+          1.0
+        ]
+      },
+      "MovementType": [ 1, 0.3 ]
+    },
+    {
+      "DataFile": "MovingPlatform",
+      "Transform": {
+        "Scale": [
+          3.3,
+          5.5,
+          1.0
+        ],
+        "Translate": [
+          108.5,
+          98.0,
+          7.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          3.3,
+          5.5,
+          1.0
+        ]
+      },
+      "MovementType": [ 2, 0.1 ]
+    },
+    {
+      "DataFile": "Stopper",
+      "Transform": {
+        "Translate": [
+          125.0,
+          108.4,
+          7.0
+        ]
+      }
+    },
+
+
+
+
+
+    {
+      "DataFile": "Stopper",
+      "Transform": {
+        "Translate": [
+          110.0,
+          88.4,
+          7.0
+        ]
+      }
+    },
+    {
+      "DataFile": "MovingPlatform",
+      "Transform": {
+        "Scale": [
+          5.5,
+          3.0,
+          1.0
+        ],
+        "Translate": [
+          118.5,
+          88.4,
+          7.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          5.5,
+          3.0,
+          1.0
+        ]
+      },
+      "MovementType": [ 1, 0.3 ]
+    },
+    {
+      "DataFile": "Stopper",
+      "Transform": {
+        "Translate": [
+          125.0,
+          88.4,
+          7.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Stopper",
+      "Transform": {
+        "Translate": [
+          90.0,
+          112.0,
+          7.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Stopper",
+      "Transform": {
+        "Translate": [
+          99.0,
+          114.0,
+          7.0
+        ]
+      }
+    },
+    {
+      "DataFile": "MovingPlatform",
+      "Transform": {
+        "Scale": [
+          2.5,
+          5.0,
+          1.0
+        ],
+        "Translate": [
+          90.0,
+          93.4,
+          7.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          2.5,
+          5.0,
+          1.0
+        ]
+      },
+      "MovementType": [ 2, 0.3 ]
+    },
+    {
+      "DataFile": "Stopper",
+      "Transform": {
+        "Translate": [
+          90.0,
+          100.4,
+          7.0
+        ]
+      }
+    },
+    {
+      "DataFile": "MovingPlatform",
+      "Transform": {
+        "Scale": [
+          2.5,
+          5.0,
+          1.0
+        ],
+        "Translate": [
+          90.0,
+          106.4,
+          7.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          2.5,
+          5.0,
+          1.0
+        ]
+      },
+      "MovementType": [ 2, -0.3 ]
+    },
+    {
+      "DataFile": "Stopper",
+      "Transform": {
+        "Translate": [
+          99.0,
+          96.4,
+          7.0
+        ]
+      }
+    },
+    {
+      "DataFile": "MovingPlatform",
+      "Transform": {
+        "Scale": [
+          2.5,
+          3.0,
+          1.0
+        ],
+        "Translate": [
+          99.0,
+          99.4,
+          7.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          2.5,
+          3.0,
+          1.0
+        ]
+      },
+      "MovementType": [ 2, 0 ]
+    },
+    {
+      "DataFile": "Stopper",
+      "Transform": {
+        "Translate": [
+          99.0,
+          102.4,
+          7.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Stopper",
+      "Transform": {
+        "Translate": [
+          90.0,
+          88.0,
+          7.0
+        ]
+      }
+    },
+    {
+      "DataFile": "MovingPlatform",
+      "Transform": {
+        "Scale": [
+          1,
+          2,
+          1.0
+        ],
+        "Translate": [
+          99.0,
+          93.4,
+          7.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1,
+          2,
+          1.0
+        ]
+      },
+      "MovementType": [ 2, 0.2 ]
+    },
+    {
+      "DataFile": "MovingPlatform",
+      "Transform": {
+        "Scale": [
+          1,
+          2,
+          1.0
+        ],
+        "Translate": [
+          99.0,
+          105.4,
+          7.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1,
+          2,
+          1.0
+        ]
+      },
+      "MovementType": [ 2, -0.2 ]
+    },
+    {
+      "DataFile": "Stopper",
+      "Transform": {
+        "Translate": [
+          99.0,
+          86.0,
+          7.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Stopper",
+      "Transform": {
+        "Translate": [
+          83.0,
+          73.0,
+          7.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Stopper",
+      "Transform": {
+        "Translate": [
+          66.0,
+          73.0,
+          7.0
+        ]
+      }
+    },
+    {
+      "DataFile": "MovingPlatform",
+      "Transform": {
+        "Scale": [
+          4.0,
+          2.5,
+          1.0
+        ],
+        "Translate": [
+          75.0,
+          73.0,
+          7.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          4.0,
+          2.5,
+          1.0
+        ]
+      },
+      "MovementType": [ 1, 0.3 ]
+    },
+    {
+      "DataFile": "Stopper",
+      "Transform": {
+        "Translate": [
+          83.0,
+          80.0,
+          7.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Stopper",
+      "Transform": {
+        "Translate": [
+          66.0,
+          80.0,
+          7.0
+        ]
+      }
+    },
+    {
+      "DataFile": "MovingPlatform",
+      "Transform": {
+        "Scale": [
+          4.0,
+          2.5,
+          1.0
+        ],
+        "Translate": [
+          79.0,
+          80.0,
+          7.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          4.0,
+          2.5,
+          1.0
+        ]
+      },
+      "MovementType": [ 1, 0.3 ]
+    },
+    {
+      "DataFile": "Stopper",
+      "Transform": {
+        "Translate": [
+          83.0,
+          82.5,
+          7.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Stopper",
+      "Transform": {
+        "Translate": [
+          66.0,
+          82.5,
+          7.0
+        ]
+      }
+    },
+    {
+      "DataFile": "MovingPlatform",
+      "Transform": {
+        "Scale": [
+          4.0,
+          2.5,
+          1.0
+        ],
+        "Translate": [
+          70.0,
+          83.0,
+          7.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          4.0,
+          2.5,
+          1.0
+        ]
+      },
+      "MovementType": [ 1, 0.3 ]
+    },
+    {
+      "DataFile": "Stopper",
+      "Transform": {
+        "Translate": [
+          83.0,
+          93.0,
+          7.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Stopper",
+      "Transform": {
+        "Translate": [
+          66.0,
+          93.0,
+          7.0
+        ]
+      }
+    },
+    {
+      "DataFile": "MovingPlatform",
+      "Transform": {
+        "Scale": [
+          4.0,
+          2.5,
+          1.0
+        ],
+        "Translate": [
+          70.0,
+          93.0,
+          7.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          4.0,
+          2.5,
+          1.0
+        ]
+      },
+      "MovementType": [ 1, 0.3 ]
+    },
+    {
+      "DataFile": "Stopper",
+      "Transform": {
+        "Translate": [
+          83.0,
+          90.5,
+          7.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Stopper",
+      "Transform": {
+        "Translate": [
+          66.0,
+          90.5,
+          7.0
+        ]
+      }
+    },
+    {
+      "DataFile": "MovingPlatform",
+      "Transform": {
+        "Scale": [
+          4.0,
+          2.5,
+          1.0
+        ],
+        "Translate": [
+          79.0,
+          90.0,
+          7.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          4.0,
+          2.5,
+          1.0
+        ]
+      },
+      "MovementType": [ 1, 0.3 ]
+    },
+    {
+      "DataFile": "Pathfinder",
+      "Transform": {
+        "Translate": [
+          75.0,
+          10.4,
+          15.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Boss1",
+      "Transform": {
+        "Translate": [
+          70.5,
+          130.5,
+          15.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Hint",
+      "Transform": {
+        "Translate": [
+          80.5,
+          130.5,
+          7.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          19.0,
+          15.0,
+          1.0
+        ]
+      },
+      "HintStr": "Beat the boss, I believe in you!"
+    },
+    {
+      "DataFile": "PointLight",
+      "Transform": {
+        "Scale": [
+          2.0,
+          2.0,
+          2.0
+        ],
+        "Translate": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Floor",
+      "Transform": {
+        "Scale": [
+          150.0,
+          150.0,
+          1.0
+        ],
+        "Translate": [
+          75.0,
+          75.0,
+          6.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          150.0,
+          150.0,
+          1.0
+        ]
+      }
+    },
+    {
+      "DataFile": "DirectLight",
+      "Transform": {
+        "Scale": [
+          2.0,
+          2.0,
+          2.0
+        ],
+        "Translate": [
+          0.0,
+          0.0,
+          100.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          10.0,
+          13.5,
+          150.0
+        ],
+        "Translate": [
+          1.0,
+          75.0,
+          9.5
+        ]
+      },
+      "Body": {
+        "BScale": [
+          2.0,
+          150.0,
+          6.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Door",
+      "Transform": {
+        "Translate": [
+          65.0,
+          13.5,
+          8.7
+        ],
+        "Scale": [
+          1.4,
+          5.0,
+          4.0
+        ]
+      },
+      "ConditionBoxPos": [
+        75.0,
+        10.4,
+        10.0,
+        8,
+        8,
+        1,
+        1,
+        0
+      ]
+    },
+
+    {
+      "DataFile": "Door",
+      "Transform": {
+        "Translate": [
+          84.9,
+          13.0,
+          8.7
+        ],
+        "Scale": [
+          1.4,
+          5.5,
+          4.0
+        ]
+      },
+      "ConditionBoxPos": [
+        55.0,
+        13.0,
+        10.0,
+        9,
+        9,
+        1,
+        2,
+        2
+      ]
+    },
+    {
+      "DataFile": "Door",
+      "Transform": {
+        "Translate": [
+          822223.5,
+          13.0,
+          9.5
+        ],
+        "Scale": [ 0, 0, 0 ]
+      },
+      "ConditionBoxPos": [
+        75.0,
+        35.0,
+        10.0,
+        9,
+        9,
+        1,
+        4,
+        2
+      ]
+    },
+    {
+      "DataFile": "Door",
+      "Transform": {
+        "Translate": [
+          75.0,
+          24.4,
+          8.8
+        ],
+        "Scale": [
+          5.0,
+          1.4,
+          4.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          5.0,
+          1.4,
+          4.0
+        ]
+      },
+      "ConditionBoxPos": [
+        95.0,
+        13.0,
+        10.0,
+        9,
+        9,
+        1,
+        3,
+        2
+      ]
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          810.0,
+          13.5,
+          2.0
+        ],
+        "Translate": [
+          75.0,
+          1.0,
+          9.5
+        ]
+      },
+      "Body": {
+        "BScale": [
+          150.0,
+          2.0,
+          6.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          2.0,
+          13.5,
+          150.0
+        ],
+        "Translate": [
+          149.0,
+          75.0,
+          9.5
+        ]
+      },
+      "Body": {
+        "BScale": [
+          2.0,
+          150.0,
+          6.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          810.0,
+          13.5,
+          2.0
+        ],
+        "Translate": [
+          75.0,
+          149.0,
+          9.5
+        ]
+      },
+      "Body": {
+        "BScale": [
+          150.0,
+          2.0,
+          6.0
+        ]
+      }
+    },
+    {
+      "DataFile": "PuzzleTile",
+      "Transform": {
+        "Scale": [
+          4.0,
+          4.0,
+          0.25
+        ],
+        "Translate": [
+          92.0,
+          138.0,
+          6.4
+        ]
+      },
+      "Body": {
+        "BScale": [
+          4.0,
+          4.0,
+          0.25
+        ]
+      }
+    },
+    {
+      "DataFile": "PuzzleTile",
+      "Transform": {
+        "Scale": [
+          4.0,
+          4.0,
+          0.25
+        ],
+        "Translate": [
+          92.0,
+          133.0,
+          6.4
+        ]
+      },
+      "Body": {
+        "BScale": [
+          4.0,
+          4.0,
+          0.25
+        ]
+      }
+    },
+    {
+      "DataFile": "PuzzleTile",
+      "Transform": {
+        "Scale": [
+          4.0,
+          4.0,
+          0.25
+        ],
+        "Translate": [
+          92.0,
+          128.0,
+          6.4
+        ]
+      },
+      "Body": {
+        "BScale": [
+          4.0,
+          4.0,
+          0.25
+        ]
+      }
+    },
+    {
+      "DataFile": "PuzzleTile",
+      "Transform": {
+        "Scale": [
+          4.0,
+          4.0,
+          0.25
+        ],
+        "Translate": [
+          97.0,
+          138.0,
+          6.4
+        ]
+      },
+      "Body": {
+        "BScale": [
+          4.0,
+          4.0,
+          0.25
+        ]
+      }
+    },
+    {
+      "DataFile": "PuzzleTile",
+      "Transform": {
+        "Scale": [
+          4.0,
+          4.0,
+          0.25
+        ],
+        "Translate": [
+          97.0,
+          133.0,
+          6.4
+        ]
+      },
+      "Body": {
+        "BScale": [
+          4.0,
+          4.0,
+          0.25
+        ]
+      }
+    },
+    {
+      "DataFile": "PuzzleTile",
+      "Transform": {
+        "Scale": [
+          4.0,
+          4.0,
+          0.25
+        ],
+        "Translate": [
+          97.0,
+          128.0,
+          6.4
+        ]
+      },
+      "Body": {
+        "BScale": [
+          4.0,
+          4.0,
+          0.25
+        ]
+      }
+    },
+    {
+      "DataFile": "PuzzleTile",
+      "Transform": {
+        "Scale": [
+          4.0,
+          4.0,
+          0.25
+        ],
+        "Translate": [
+          102.0,
+          138.0,
+          6.4
+        ]
+      },
+      "Body": {
+        "BScale": [
+          4.0,
+          4.0,
+          0.25
+        ]
+      }
+    },
+    {
+      "DataFile": "PuzzleTile",
+      "Transform": {
+        "Scale": [
+          4.0,
+          4.0,
+          0.25
+        ],
+        "Translate": [
+          102.0,
+          133.0,
+          6.4
+        ]
+      },
+      "Body": {
+        "BScale": [
+          4.0,
+          4.0,
+          0.25
+        ]
+      }
+    },
+    {
+      "DataFile": "PuzzleTile",
+      "Transform": {
+        "Scale": [
+          4.0,
+          4.0,
+          0.25
+        ],
+        "Translate": [
+          102.0,
+          128.0,
+          6.4
+        ]
+      },
+      "Body": {
+        "BScale": [
+          4.0,
+          4.0,
+          0.25
+        ]
+      }
+    },
+    {
+      "DataFile": "Pillar",
+      "Transform": {
+        "Scale": [
+          5.0,
+          7.0,
+          5.0
+        ],
+        "Translate": [
+          75.0,
+          62.0,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          3.0,
+          3.0,
+          5.0
+        ]
+      },
+      "Asset": {
+        "Shape": "Obj",
+        "Model": "Tower_1.obj",
+        "Rotated": true,
+        "MaterialID": 0
+      }
+    },
+    {
+      "DataFile": "Pillar",
+      "Transform": {
+        "Scale": [
+          6.0,
+          9.0,
+          5.5
+        ],
+        "Translate": [
+          48.0,
+          77.0,
+          10.25
+        ]
+      },
+      "Body": {
+        "BScale": [
+          3.5,
+          3.5,
+          7.5
+        ]
+      },
+      "Asset": {
+        "Shape": "Obj",
+        "Model": "Tower_2.obj",
+        "Rotated": true,
+        "MaterialID": 0
+      }
+    },
+    {
+      "DataFile": "Pillar",
+      "Transform": {
+        "Scale": [
+          7.8,
+          11.0,
+          10.0
+        ],
+        "Translate": [
+          135.0,
+          100.0,
+          11.5
+        ]
+      },
+      "Body": {
+        "BScale": [
+          4.0,
+          4.0,
+          10.0
+        ]
+      },
+      "Asset": {
+        "Shape": "Obj",
+        "Model": "Tower_3.obj",
+        "Rotated": true,
+        "MaterialID": 0
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          5.0,
+          13.5,
+          9.5
+        ],
+        "Translate": [
+          65.0,
+          6.5,
+          8.5
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1.0,
+          9.0,
+          4.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          5.0,
+          13.5,
+          9.5
+        ],
+        "Translate": [
+          65.0,
+          20.5,
+          8.5
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1.0,
+          9.0,
+          4.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          110.0,
+          13.5,
+          1.0
+        ],
+        "Translate": [
+          54.5,
+          24.5,
+          8.5
+        ]
+      },
+      "Body": {
+        "BScale": [
+          20.0,
+          1.0,
+          4.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          5.0,
+          13.5,
+          9.5
+        ],
+        "Translate": [
+          85.0,
+          6.5,
+          8.5
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1.0,
+          9.0,
+          4.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          5.0,
+          13.5,
+          9.5
+        ],
+        "Translate": [
+          85.0,
+          20.5,
+          8.5
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1.0,
+          9.0,
+          4.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          99.5,
+          13.5,
+          1.0
+        ],
+        "Translate": [
+          94.6,
+          24.5,
+          8.5
+        ]
+      },
+      "Body": {
+        "BScale": [
+          17.8,
+          1.0,
+          4.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          5.0,
+          13.5,
+          53.5
+        ],
+        "Translate": [
+          44.0,
+          26.3,
+          8.5
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1.0,
+          49.5,
+          4.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          38.0,
+          13.5,
+          1.0
+        ],
+        "Translate": [
+          69.0,
+          24.5,
+          8.5
+        ]
+      },
+      "Body": {
+        "BScale": [
+          7.0,
+          1.0,
+          4.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          38.5,
+          13.5,
+          1.0
+        ],
+        "Translate": [
+          81.0,
+          24.5,
+          8.5
+        ]
+      },
+      "Body": {
+        "BScale": [
+          7.0,
+          1.0,
+          4.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          5.0,
+          13.5,
+          10.5
+        ],
+        "Translate": [
+          65.0,
+          30.0,
+          8.5
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1.0,
+          10.0,
+          4.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          5.0,
+          13.5,
+          10.5
+        ],
+        "Translate": [
+          65.0,
+          45.0,
+          8.5
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1.0,
+          10.0,
+          4.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          110.0,
+          13.5,
+          2.0
+        ],
+        "Translate": [
+          54.5,
+          50.5,
+          8.5
+        ]
+      },
+      "Body": {
+        "BScale": [
+          20.0,
+          1.0,
+          4.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          5.0,
+          13.5,
+          10.5
+        ],
+        "Translate": [
+          85.0,
+          30.0,
+          8.5
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1.0,
+          10.0,
+          4.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          5.0,
+          13.5,
+          10.5
+        ],
+        "Translate": [
+          85.0,
+          45.0,
+          8.5
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1.0,
+          10.0,
+          4.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          110.0,
+          13.5,
+          2.0
+        ],
+        "Translate": [
+          94.5,
+          50.5,
+          8.5
+        ]
+      },
+      "Body": {
+        "BScale": [
+          20.0,
+          1.0,
+          4.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          5.0,
+          13.5,
+          50.0
+        ],
+        "Translate": [
+          104.0,
+          25.3,
+          8.5
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1.0,
+          49.3,
+          4.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          38.0,
+          13.5,
+          2.0
+        ],
+        "Translate": [
+          68.0,
+          50.5,
+          8.5
+        ]
+      },
+      "Body": {
+        "BScale": [
+          7.0,
+          1.0,
+          4.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          38.0,
+          13.5,
+          2.0
+        ],
+        "Translate": [
+          80.9,
+          50.5,
+          8.5
+        ]
+      },
+      "Body": {
+        "BScale": [
+          7.0,
+          1.0,
+          4.0
+        ]
+      }
+    },
+
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          5.0,
+          10.5,
+          21.5
+        ],
+        "Translate": [
+          36.8,
+          75.8,
+          8.5
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1.0,
+          20.0,
+          4.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          141.0,
+          13.5,
+          4.0
+        ],
+        "Translate": [
+          50.5,
+          66.0,
+          8.5
+        ]
+      },
+      "Body": {
+        "BScale": [
+          26.0,
+          4.0,
+          4.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          141.0,
+          13.5,
+          4.0
+        ],
+        "Translate": [
+          50.5,
+          86.0,
+          8.5
+        ]
+      },
+      "Body": {
+        "BScale": [
+          26.0,
+          4.0,
+          4.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          5.0,
+          10.5,
+          16.3
+        ],
+        "Translate": [
+          65.0,
+          58.5,
+          8.5
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1.0,
+          15.0,
+          4.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          5.0,
+          10.5,
+          42.3
+        ],
+        "Translate": [
+          85.0,
+          71.0,
+          8.5
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1.0,
+          40.0,
+          4.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          5.0,
+          13.5,
+          10.5
+        ],
+        "Translate": [
+          64.0,
+          66.5,
+          8.5
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1.0,
+          11.0,
+          4.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          5.0,
+          13.5,
+          37.7
+        ],
+        "Translate": [
+          64.0,
+          97.9,
+          8.5
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1.0,
+          36.0,
+          4.0
+        ]
+      }
+    },
+
+
+
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          5.0,
+          13.5,
+          11.5
+        ],
+        "Translate": [
+          86.0,
+          90.0,
+          8.5
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1.0,
+          11.0,
+          4.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          5.0,
+          13.5,
+          11.5
+        ],
+        "Translate": [
+          86.0,
+          110.0,
+          8.5
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1.0,
+          11.0,
+          4.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          5.0,
+          13.5,
+          11.5
+        ],
+        "Translate": [
+          86.0,
+          90.0,
+          8.5
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1.0,
+          11.0,
+          4.0
+        ]
+      }
+    },
+
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          113.0,
+          13.5,
+          1.3
+        ],
+        "Translate": [
+          75.3,
+          116.5,
+          8.5
+        ]
+      },
+      "Body": {
+        "BScale": [
+          20.5,
+          1.0,
+          4.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          332.0,
+          13.5,
+          1.0
+        ],
+        "Translate": [
+          117.1,
+          84.5,
+          8.5
+        ]
+      },
+      "Body": {
+        "BScale": [
+          61.0,
+          1.0,
+          4.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          270.0,
+          13.5,
+          1.0
+        ],
+        "Translate": [
+          111.5,
+          116.0,
+          8.5
+        ]
+      },
+      "Body": {
+        "BScale": [
+          49.6,
+          1.0,
+          4.0
+        ]
+      }
+    },
+
+    {
+      "DataFile": "Block",
+      "Transform": {
+        "Translate": [
+          78.0,
+          58.0,
+          15.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Block",
+      "Transform": {
+        "Translate": [
+          48.0,
+          70.0,
+          15.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Block",
+      "Transform": {
+        "Translate": [
+          130.0,
+          106.0,
+          15.0
+        ]
+      }
+    },
+
+    {
+      "DataFile": "Padding",
+      "Transform": {
+        "Translate": [
+          75.0,
+          27.0,
+          4.5
+        ],
+        "Scale": [
+          64.5,
+          50.0,
+          4.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Padding",
+      "Transform": {
+        "Translate": [
+          76.1,
+          100.0,
+          4.5
+        ],
+        "Scale": [
+          149.9,
+          98.2,
+          4.01
+        ]
+      }
+    },
+
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          223.5,
+          13.5,
+          4.0
+        ],
+        "Translate": [
+          25.0,
+          50.0,
+          8.5
+        ]
+      },
+      "Body": {
+        "BScale": [
+          44.0,
+          1.0,
+          2.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          230.5,
+          13.5,
+          4.0
+        ],
+        "Translate": [
+          125.0,
+          50.5,
+          8.5
+        ]
+      },
+      "Body": {
+        "BScale": [
+          44.0,
+          1.0,
+          2.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          3.5,
+          3.5,
+          4.0
+        ],
+        "Translate": [
+          80.0,
+          140.5,
+          8.5
+        ]
+      },
+      "Asset": {
+        "Shape": "Obj",
+        "Model": "Box.obj",
+        "Rotated": true,
+        "MaterialID": 0
+      },
+      "Body": {
+        "BScale": [
+          3.5,
+          3.5,
+          4.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          3.5,
+          3.5,
+          4.0
+        ],
+        "Translate": [
+          70.0,
+          140.5,
+          8.5
+        ]
+      },
+      "Asset": {
+        "Shape": "Obj",
+        "Model": "Box.obj",
+        "Rotated": true,
+        "MaterialID": 0
+      },
+      "Body": {
+        "BScale": [
+          3.5,
+          3.5,
+          4.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          3.5,
+          3.5,
+          4.0
+        ],
+        "Translate": [
+          60.0,
+          140.5,
+          8.5
+        ]
+      },
+      "Asset": {
+        "Shape": "Obj",
+        "Model": "Box.obj",
+        "Rotated": true,
+        "MaterialID": 0
+      },
+      "Body": {
+        "BScale": [
+          3.5,
+          3.5,
+          4.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          3.5,
+          3.5,
+          4.0
+        ],
+        "Translate": [
+          60.0,
+          130.5,
+          8.5
+        ]
+      },
+      "Asset": {
+        "Shape": "Obj",
+        "Model": "Box.obj",
+        "Rotated": true,
+        "MaterialID": 0
+      },
+      "Body": {
+        "BScale": [
+          3.5,
+          3.5,
+          4.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          3.5,
+          3.5,
+          4.0
+        ],
+        "Translate": [
+          60.0,
+          120.5,
+          8.5
+        ]
+      },
+      "Asset": {
+        "Shape": "Obj",
+        "Model": "Box.obj",
+        "Rotated": true,
+        "MaterialID": 0
+      },
+      "Body": {
+        "BScale": [
+          3.5,
+          3.5,
+          4.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          3.5,
+          3.5,
+          4.0
+        ],
+        "Translate": [
+          70.0,
+          120.5,
+          8.5
+        ]
+      },
+      "Asset": {
+        "Shape": "Obj",
+        "Model": "Box.obj",
+        "Rotated": true,
+        "MaterialID": 0
+      },
+      "Body": {
+        "BScale": [
+          3.5,
+          3.5,
+          4.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          3.5,
+          3.5,
+          4.0
+        ],
+        "Translate": [
+          80.0,
+          120.5,
+          8.5
+        ]
+      },
+      "Asset": {
+        "Shape": "Obj",
+        "Model": "Box.obj",
+        "Rotated": true,
+        "MaterialID": 0
+      },
+      "Body": {
+        "BScale": [
+          3.5,
+          3.5,
+          4.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          3.5,
+          3.5,
+          4.0
+        ],
+        "Translate": [
+          80.0,
+          130.5,
+          8.5
+        ]
+      },
+      "Asset": {
+        "Shape": "Obj",
+        "Model": "Box.obj",
+        "Rotated": true,
+        "MaterialID": 0
+      },
+      "Body": {
+        "BScale": [
+          3.5,
+          3.5,
+          4.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          7.5,
+          13.5,
+          33.0
+        ],
+        "Translate": [
+          48.0,
+          131.5,
+          8.5
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1.0,
+          31.0,
+          4.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          90.0,
+          14.0,
+          1.5
+        ],
+        "Translate": [
+          55.2,
+          114.9,
+          8.5
+        ]
+      },
+      "Body": {
+        "BScale": [
+          15.0,
+          1.5,
+          4.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Shooter",
+      "Transform": {
+        "Translate": [
+          50.0,
+          37.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Shooter",
+      "Transform": {
+        "Translate": [
+          130.0,
+          60.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Shooter",
+      "Transform": {
+        "Translate": [
+          45.0,
+          71.0,
+          19.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Shooter",
+      "Transform": {
+        "Translate": [
+          45.0,
+          80.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "SleepShooter",
+      "Transform": {
+        "Translate": [
+          49.0,
+          10.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "SleepCharger",
+      "Transform": {
+        "Translate": [
+          53.0,
+          18.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Charger",
+      "Transform": {
+        "Translate": [
+          67,
+          110,
+          19.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Charger",
+      "Transform": {
+        "Translate": [
+          82,
+          110,
+          19.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Charger",
+      "Transform": {
+        "Translate": [
+          98.0,
+          42.5,
+          19.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Charger",
+      "Transform": {
+        "Translate": [
+          125.0,
+          98.5,
+          19.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Charger",
+      "Transform": {
+        "Translate": [
+          136.0,
+          71.5,
+          19.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Charger",
+      "Transform": {
+        "Translate": [
+          115.0,
+          133.5,
+          19.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Charger",
+      "Transform": {
+        "Translate": [
+          115.0,
+          128.5,
+          19.0
+        ]
+      }
+    },
+
+    {
+      "DataFile": "Shooter",
+      "Transform": {
+        "Translate": [
+          125.0,
+          125.5,
+          19.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Shooter",
+      "Transform": {
+        "Translate": [
+          125.0,
+          135.5,
+          19.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Shooter",
+      "Transform": {
+        "Translate": [
+          125.0,
+          130.5,
+          19.0
+        ]
+      }
+    },
+    {
+      "DataFile": "SleepCharger",
+      "Transform": {
+        "Translate": [
+          93.0,
+          13.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Hint",
+      "Transform": {
+        "Translate": [
+          95.0,
+          36.0,
+          8.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          19.0,
+          15.0,
+          1.0
+        ]
+      },
+      "HintStr": "I can auto-shoot as well, mark the enemy and press Controller A but remember..I will need some time to reload."
+    },
+    {
+      "DataFile": "Hint",
+      "Transform": {
+        "Translate": [
+          60.0,
+          75.0,
+          8.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          4.0,
+          10.0,
+          1.0
+        ]
+      },
+      "HintStr": "You can still manually shoot while I auto shoot! I will keep shooting so long as you are in range!"
+    },
+    {
+      "DataFile": "Hint",
+      "Transform": {
+        "Translate": [
+          75.0,
+          58.0,
+          8.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          19.0,
+          15.0,
+          1.0
+        ]
+      },
+      "HintStr": "Do you think that pillar holds the key to our progress?"
+    },
+    {
+      "DataFile": "Hint",
+      "Transform": {
+        "Translate": [
+          75.0,
+          68.0,
+          8.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          19.0,
+          5.0,
+          1.0
+        ]
+      },
+      "HintStr": "Be careful! You can  dash by pressing  Controller B"
+    },
+    {
+      "DataFile": "Hint",
+      "Transform": {
+        "Translate": [
+          75.0,
+          85.0,
+          8.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          19.0,
+          5.0,
+          1.0
+        ]
+      },
+      "HintStr": "You learn fast! Lets stay focused and finish this level"
+    },
+    {
+      "DataFile": "LootDrop",
+      "Transform": {
+        "Translate": [
+          1410.0,
+          1380.0,
+          9.0
+        ]
+      }
+    }
+    //,
+    //{
+    //  "DataFile": "LevelSwitch",
+    //  "Transform": {
+    //    "Translate": [
+    //      75.0,
+    //      15.0,
+    //      9.0
+    //    ]
+    //  }
+    //}
+  ]
+}

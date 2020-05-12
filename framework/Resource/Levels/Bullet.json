@@ -1,0 +1,17 @@
+{
+  "Bullet": {
+    "Transform": {
+      "Scale": [ 0.3, 0.3, 0.3 ],
+      "Translate": [ 0.0, 0.0, 0.0 ]
+    },
+    "Asset": {
+      "Shape": "Sphere",
+      "Diffuse": [1, 0, 0]
+    },
+    "Body": {
+      "BScale": [ 0.3, 0.3, 0.3 ],
+      "ShapeX": "AABB",
+      "IsPhysicsObject": true
+    }
+  }
+}

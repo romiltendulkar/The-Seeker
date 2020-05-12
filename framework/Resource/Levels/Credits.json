@@ -1,0 +1,23 @@
+{
+  "Credits": {
+    "Transform": {
+      "Scale": [ 5.0, 5.0, 5.0 ],
+      "Translate": [ 0.0, 0.0, 0.0 ]
+    },
+    "Asset": {
+      "Shape": "Obj",
+      "Model": "maintile.obj",
+      "Rotated": true,
+      "MaterialID": 0
+    },
+    "TextureList": [
+      "Credits\\GameCredits_2019_20\\Slide7.PNG",
+      "Credits\\GameCredits_2019_20\\Slide8.PNG",
+      "Credits\\GameCredits_2019_20\\Slide9.PNG",
+      "Credits\\GameCredits_2019_20\\Slide10.PNG",
+      "Credits\\GameCredits_2019_20\\Slide11.PNG",
+      "Credits\\GameCredits_2019_20\\Slide12.PNG",
+      "Credits\\GameCredits_2019_20\\Slide14.PNG"
+    ]
+  }
+}

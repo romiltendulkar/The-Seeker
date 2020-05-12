@@ -1,0 +1,20 @@
+{
+  "SpotLight": {
+    "Transform": {
+      "Scale": [ 2.0, 2.0, 2.0 ],
+      "Translate": [ 0.0, 0.0, 200.0 ]
+    },
+    "LightDetail": {
+      "Type": "SpotLight",
+      "Direction": [ 0.0, 0.0, -1.0 ],
+      "Diffuse": [ 2.0, 2.0, 2.0 ],
+      "Ambient": [ 0.2, 0.2, 0.2 ],
+      "Specular": [ 1.0, 1.0, 1.0 ],
+      "setAttenuation": [ 1.0, 0.09, 0.032 ],
+      "setCutOff": [ 2.5, 4.5 ],
+      "HasShadow": true,
+      "ShadowMapSize": [ 512, 512 ]
+    }
+   
+  }
+}

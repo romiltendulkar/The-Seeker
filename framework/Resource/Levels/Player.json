@@ -1,0 +1,32 @@
+{
+  "Player": {
+    "Transform": {
+      "Scale": [ 3.5, 3.5, 3.5 ],
+      "Translate": [ 0.0, 0.0, 8.0 ]
+    },
+    "Controller": {
+
+    },
+    "Asset": {
+      "Shape": "FBX",
+      "Model": "maincharacter.fbx",
+      "Rotated": true,
+      "MaterialID": 0
+    },
+    "Body": {
+      "BScale": [1.7, 1.5, 2.5 ],
+      "Offset": [ 0.0, 0.0, -2.0 ],
+      "ShapeX": "AABB",
+      "IsPhysicsObject": true
+    },
+    "Animation": {
+      "AnimationAddtionalList": [
+        [ "Running.fbx", "run", 1.0, 21.0, 30.0 ],
+        [ "dash.fbx", "roll", 1.0, 1.0, 30.0 ],
+        [ "Idle.fbx", "idle", 1.0, 59.0, 30.0 ],
+        [ "Punching.fbx", "hatk", 1.0, 26.0, 30.0 ],
+        [ "Punching (1).fbx", "vatk", 1.0, 38.0, 30.0 ]
+      ]
+    }
+  }
+}

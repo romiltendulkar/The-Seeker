@@ -1,0 +1,94 @@
+{
+  "IngameMenu": [
+    {
+      "Group": {
+        "isRoot": true,
+        "needDraw": false,
+        "Size": [ 1600, 1200 ],
+        "Position": [ -400, 300 ],
+        "Items": [
+          {
+            "Group": {
+              "isRoot": false,
+              "needDraw": true,
+              "OutLineDraw": false,
+              "Size": [ 200, 100 ],
+              "Position": [ 350, -100 ],
+              "Type": "Button",
+              "Texture": "button_resume.png",
+              "FunctionType": 0
+            }
+          },
+          {
+            "Group": {
+              "isRoot": false,
+              "needDraw": true,
+              "OutLineDraw": false,
+              "Size": [ 200, 100 ],
+              "Position": [ 350, -160 ],
+              "Type": "Button",
+              "Texture": "button_controls.png",
+              "FunctionType": 2,
+              "TextureList": [ "controls.png" ]
+            }
+          },
+          {
+            "Group": {
+              "isRoot": false,
+              "needDraw": true,
+              "OutLineDraw": false,
+              "Size": [ 200, 100 ],
+              "Position": [ 350, -220 ],
+              "Type": "Button",
+              "Texture": "button_fullscreen.png",
+              "FunctionType": 7,
+              "TextureList": [
+                "button_fullscreen.png",
+                "button_windowed.png"
+              ]
+            }
+          },
+          {
+            "Group": {
+              "isRoot": false,
+              "needDraw": true,
+              "OutLineDraw": false,
+              "Size": [ 200, 100 ],
+              "Position": [ 350, -280 ],
+              "Type": "Button",
+              "Texture": "button_credits.png",
+              "FunctionType": 5,
+              "TextureList": [ "confirm_quit.png" ]
+            }
+          },
+          {
+            "Group": {
+              "isRoot": false,
+              "needDraw": true,
+              "OutLineDraw": false,
+              "Size": [ 200, 100 ],
+              "Position": [ 350, -340 ],
+              "Type": "Button",
+              "Texture": "button_main_menu.png",
+              "FunctionType": 6,
+              "TextureList": [ "confirm_quit.png" ]
+            }
+          },
+          {
+            "Group": {
+              "isRoot": false,
+              "needDraw": true,
+              "OutLineDraw": false,
+              "Size": [ 200, 100 ],
+              "Position": [ 350, -400 ],
+              "Type": "Button",
+              "Texture": "button_quit.png",
+              "FunctionType": 1,
+              "TextureList": [ "confirm_quit.png" ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

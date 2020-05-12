@@ -1,0 +1,80 @@
+{
+  "InGameUI": [
+    {
+      "Group": {
+        "isRoot": true,
+        "needDraw": true,
+        "Size": [ 1600, 1200 ],
+        "Position": [ -400, 300 ],
+        "Items": [
+          {
+            "Group": {
+              "isRoot": false,
+              "needDraw": true,
+              "OutLineDraw": false,
+              "Size": [ 300, 200 ],
+              "Position": [ 340, -510 ],
+              "Type": "Goal",
+              "Items": [
+                {
+                  "Group": {
+                    "needDraw": true,
+                    "OutLineDraw": true,
+                    "Color": [ 0.5, 0.5, 0.5 ],
+                    "Size": [ 100, 100 ],
+                    "Position": [ 5, -20 ],
+                    "Alpha": true,
+                    "Type": "Texture",
+                    "Texture": "life.png"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "Group": {
+              "isRoot": false,
+              "needDraw": true,
+              "Size": [ 220, 120 ],
+              "Position": [ 0, -120 ],
+              "Type": "Stat"
+            }
+          },
+          {
+            "Group": {
+              "isRoot": false,
+              "needDraw": true,
+              "Color": [ 0.5, 0.5, 0.5 ],
+              "Size": [ 600, 35 ],
+              "Position": [ 240, -510 ],
+              "Type": "HP"
+            }
+          },
+          {
+            "Group": {
+              "isRoot": false,
+              "needDraw": true,
+              "Size": [ 600, 180 ],
+              "Position": [ 240, -420 ],
+              "Type": "Dialogue",
+              "Items": [
+                {
+                  "Group": {
+                    "needDraw": true,
+                    "OutLineDraw": true,
+                    "Color": [ 0.5, 0.5, 0.5 ],
+                    "Size": [ 100, 100 ],
+                    "Position": [ 5, -20 ],
+                    "Alpha": true,
+                    "Type": "Texture",
+                    "Texture": "pathfinder.png"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

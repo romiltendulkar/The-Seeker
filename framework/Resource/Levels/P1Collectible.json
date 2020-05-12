@@ -1,0 +1,22 @@
+{
+  "P1Collectible": {
+    "Transform": {
+      "Scale": [ 1.0, 1.0, 1.0 ],
+      "Translate": [ 0.0, 0.0, 0.0 ]
+    },
+    "Asset": {
+        "Shape": "Obj",
+        "Model": "Coin Block.obj",
+        "Rotated": false,
+        "MaterialID": 0,
+        "Diffuse" :  [0.9, 1.0, 0.64]
+
+    },
+    "Body": {
+      "BScale": [ 1.0, 1.0, 1.0 ],
+      "ShapeX": "AABB",
+      "IsPhysicsObject": false,
+      "Friction": 0.80
+    }
+  }
+}

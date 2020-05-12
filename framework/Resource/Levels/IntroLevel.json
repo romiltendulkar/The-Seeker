@@ -1,0 +1,460 @@
+{
+  "IntroLevel": [
+
+    {
+      "DataFile": "Right",
+      "Transform": {
+        "Scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Translate": [
+          0.0,
+          0.0,
+          15.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Left",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          5.0,
+          0.0,
+          15.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Player",
+      "Transform": {
+        "Scale": [
+          3.5,
+          3.5,
+          3.5
+        ],
+        "Translate": [
+          75.0,
+          10.4,
+          15.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Stopper",
+      "Transform": {
+        "Translate": [
+          70.0,
+          13.4,
+          8.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Stopper",
+      "Transform": {
+        "Translate": [
+          80.0,
+          13.4,
+          8.0
+        ]
+      }
+    },
+    {
+      "DataFile": "MovingPlatform",
+      "MovementType": [
+        1
+      ],
+      "Transform": {
+        "Scale": [
+          2.0,
+          2.5,
+          1.0
+        ],
+        "Translate": [
+          75.0,
+          13.4,
+          8.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          2.0,
+          2.5,
+          1.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Pathfinder",
+      "Transform": {
+        "Translate": [
+          75.0,
+          10.4,
+          15.0
+        ]
+      }
+    },
+
+    {
+      "DataFile": "PuzzleTile",
+      "Transform": {
+        "Scale": [
+          4.0,
+          4.0,
+          0.25
+        ],
+        "Translate": [
+          68.5,
+          73.0,
+          6.5
+        ]
+      },
+      "Body": {
+        "BScale": [
+          4.0,
+          4.0,
+          0.25
+        ]
+      }
+    },
+    {
+      "DataFile": "PuzzleTile",
+      "Transform": {
+        "Scale": [
+          4.0,
+          4.0,
+          0.25
+        ],
+        "Translate": [
+          72.5,
+          73.0,
+          6.5
+        ]
+      },
+      "Body": {
+        "BScale": [
+          4.0,
+          4.0,
+          0.25
+        ]
+      }
+    },
+    {
+      "DataFile": "PuzzleTile",
+      "Transform": {
+        "Scale": [
+          4.0,
+          4.0,
+          0.25
+        ],
+        "Translate": [
+          76.5,
+          73.0,
+          6.5
+        ]
+      },
+      "Body": {
+        "BScale": [
+          4.0,
+          4.0,
+          0.25
+        ]
+      }
+    },
+    {
+      "DataFile": "PuzzleTile",
+      "Transform": {
+        "Scale": [
+          4.0,
+          4.0,
+          0.25
+        ],
+        "Translate": [
+          68.5,
+          69.0,
+          6.5
+        ]
+      },
+      "Body": {
+        "BScale": [
+          4.0,
+          4.0,
+          0.25
+        ]
+      }
+    },
+    {
+      "DataFile": "PuzzleTile",
+      "Transform": {
+        "Scale": [
+          4.0,
+          4.0,
+          0.25
+        ],
+        "Translate": [
+          72.5,
+          69.0,
+          6.5
+        ]
+      },
+      "Body": {
+        "BScale": [
+          4.0,
+          4.0,
+          0.25
+        ]
+      }
+    },
+    {
+      "DataFile": "PuzzleTile",
+      "Transform": {
+        "Scale": [
+          4.0,
+          4.0,
+          0.25
+        ],
+        "Translate": [
+          76.5,
+          69.0,
+          6.5
+        ]
+      },
+      "Body": {
+        "BScale": [
+          4.0,
+          4.0,
+          0.25
+        ]
+      }
+    },
+    {
+      "DataFile": "PuzzleTile",
+      "Transform": {
+        "Scale": [
+          4.0,
+          4.0,
+          0.25
+        ],
+        "Translate": [
+          68.5,
+          65.0,
+          6.5
+        ]
+      },
+      "Body": {
+        "BScale": [
+          4.0,
+          4.0,
+          0.25
+        ]
+      }
+    },
+    {
+      "DataFile": "PuzzleTile",
+      "Transform": {
+        "Scale": [
+          4.0,
+          4.0,
+          0.25
+        ],
+        "Translate": [
+          72.5,
+          65.0,
+          6.5
+        ]
+      },
+      "Body": {
+        "BScale": [
+          4.0,
+          4.0,
+          0.25
+        ]
+      }
+    },
+    {
+      "DataFile": "PuzzleTile",
+      "Transform": {
+        "Scale": [
+          4.0,
+          4.0,
+          0.25
+        ],
+        "Translate": [
+          76.5,
+          65.0,
+          6.5
+        ]
+      },
+      "Body": {
+        "BScale": [
+          4.0,
+          4.0,
+          0.25
+        ]
+      }
+    },
+    {
+      "DataFile": "Pillar",
+      "Transform": {
+        "Scale": [
+          5.0,
+          7.0,
+          5.0
+        ],
+        "Translate": [
+          17.1,
+          85.0,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          3.0,
+          3.0,
+          5.0
+        ]
+      },
+      "Asset": {
+        "Shape": "Obj",
+        "Model": "Tower_1.obj",
+        "Rotated": true,
+        "MaterialID": 0
+      }
+    },
+    {
+      "DataFile": "Pillar",
+      "Transform": {
+        "Scale": [
+          6.0,
+          9.0,
+          5.5
+        ],
+        "Translate": [
+          75.0,
+          143.0,
+          10.25
+        ]
+      },
+      "Body": {
+        "BScale": [
+          3.5,
+          3.5,
+          7.5
+        ]
+      },
+      "Asset": {
+        "Shape": "Obj",
+        "Model": "Tower_2.obj",
+        "Rotated": true,
+        "MaterialID": 0
+      }
+    },
+    {
+      "DataFile": "Pillar",
+      "Transform": {
+        "Scale": [
+          7.8,
+          11.0,
+          10.0
+        ],
+        "Translate": [
+          135.0,
+          100.0,
+          11.5
+        ]
+      },
+      "Body": {
+        "BScale": [
+          4.0,
+          4.0,
+          10.0
+        ]
+      },
+      "Asset": {
+        "Shape": "Obj",
+        "Model": "Tower_3.obj",
+        "Rotated": true,
+        "MaterialID": 0
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          5.0,
+          13.5,
+          9.5
+        ],
+        "Translate": [
+          65.0,
+          6.5,
+          8.5
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1.0,
+          9.0,
+          4.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Floor",
+      "Transform": {
+        "Scale": [
+          150.0,
+          150.0,
+          1.0
+        ],
+        "Translate": [
+          75.0,
+          75.0,
+          6.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          150.0,
+          150.0,
+          1.0
+        ]
+      }
+    },
+    {
+      "DataFile": "DirectLight",
+      "Transform": {
+        "Scale": [
+          2.0,
+          2.0,
+          2.0
+        ],
+        "Translate": [
+          0.0,
+          0.0,
+          100.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Intro",
+      "Transform": {
+        "Translate": [ 75, 11, 15 ],
+        "Scale": [ 10.0, 10.0, 10.0 ]
+      },
+      "Asset": {
+        "Shape": "Obj",
+        "Model": "maintile.obj",
+        "Rotated": true,
+        "MaterialID": 0
+      }
+    }
+  ]
+}

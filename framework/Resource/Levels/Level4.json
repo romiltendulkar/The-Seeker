@@ -1,0 +1,9255 @@
+{
+  "Level4": [
+    {
+      "DataFile": "Right",
+      "Transform": {
+        "Scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Translate": [
+          0.0,
+          0.0,
+          15.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Left",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          5.0,
+          0.0,
+          15.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Player",
+      "Transform": {
+        "Scale": [
+          3.5,
+          3.5,
+          3.5
+        ],
+        "Translate": [
+          15.0,
+          9.0,
+          15.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Collider",
+      "Transform": {
+        "Scale": [
+          3.5,
+          3.5,
+          3.5
+        ],
+        "Translate": [
+          50.0,
+          120.0,
+          8.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          3.5,
+          3.5,
+          3.5
+        ],
+        "Velocity": [ -10.0, -3.0, 0.0 ],
+        "Mass": 2
+      }
+    },
+    {
+      "DataFile": "Collider",
+      "Transform": {
+        "Scale": [
+          3.5,
+          3.5,
+          3.5
+        ],
+        "Translate": [
+          60.0,
+          120.0,
+          8.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          3.5,
+          3.5,
+          3.5
+        ],
+        "Velocity": [ 10.0, -3.0, 0.0 ],
+        "Mass": 2
+      }
+    },
+    {
+      "DataFile": "Collider",
+      "Transform": {
+        "Scale": [
+          3.5,
+          3.5,
+          3.5
+        ],
+        "Translate": [
+          70.0,
+          120.0,
+          8.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          3.5,
+          3.5,
+          3.5
+        ],
+        "Velocity": [ -10.0, 3.0, 0.0 ],
+        "Mass": 2
+      }
+    },
+    {
+      "DataFile": "Collider",
+      "Transform": {
+        "Scale": [
+          3.5,
+          3.5,
+          3.5
+        ],
+        "Translate": [
+          80.0,
+          120.0,
+          8.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          3.5,
+          3.5,
+          3.5
+        ],
+        "Velocity": [ 8.0, 1.0, 0.0 ],
+        "Mass": 2
+      }
+    },
+    {
+      "DataFile": "Collider",
+      "Transform": {
+        "Scale": [
+          3.5,
+          3.5,
+          3.5
+        ],
+        "Translate": [
+          50.0,
+          55.0,
+          8.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          3.5,
+          3.5,
+          3.5
+        ],
+        "Velocity": [ 10.0, 8.0, 0.0 ],
+        "Mass": 2
+      }
+    },
+    {
+      "DataFile": "Collider",
+      "Transform": {
+        "Scale": [
+          3.5,
+          3.5,
+          3.5
+        ],
+        "Translate": [
+          50.0,
+          55.0,
+          8.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          3.5,
+          3.5,
+          3.5
+        ],
+        "Velocity": [ 3.0, 10.0, 0.0 ],
+        "Mass": 2
+      }
+    },
+    {
+      "DataFile": "Collider",
+      "Transform": {
+        "Scale": [
+          3.5,
+          3.5,
+          3.5
+        ],
+        "Translate": [
+          50.0,
+          55.0,
+          8.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          3.5,
+          3.5,
+          3.5
+        ],
+        "Velocity": [ -9.0, -3.0, 0.0 ],
+        "Mass": 2
+      }
+    },
+    {
+      "DataFile": "Collider",
+      "Transform": {
+        "Scale": [
+          3.5,
+          3.5,
+          3.5
+        ],
+        "Translate": [
+          50.0,
+          55.0,
+          8.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          3.5,
+          3.5,
+          3.5
+        ],
+        "Velocity": [ -6.0, -8.0, 0.0 ],
+        "Mass": 2
+      }
+    },
+    {
+      "DataFile": "Collider",
+      "Transform": {
+        "Scale": [
+          3.5,
+          3.5,
+          3.5
+        ],
+        "Translate": [
+          60.0,
+          45.0,
+          8.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          3.5,
+          3.5,
+          3.5
+        ],
+        "Velocity": [ 7.0, 7.0, 0.0 ],
+        "Mass": 2
+      }
+    },
+    {
+      "DataFile": "Pathfinder",
+      "Transform": {
+        "Translate": [
+          75.0,
+          10.4,
+          15.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Floor",
+      "Transform": {
+        "Scale": [
+          150.0,
+          150.0,
+          1.0
+        ],
+        "Translate": [
+          75.0,
+          75.0,
+          6.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          150.0,
+          150.0,
+          1.0
+        ]
+      }
+    },
+    {
+      "DataFile": "DirectLight",
+      "Transform": {
+        "Scale": [
+          2.0,
+          2.0,
+          2.0
+        ],
+        "Translate": [
+          0.0,
+          0.0,
+          100.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          10.0,
+          2.0,
+          150.0
+        ],
+        "Translate": [
+          1.0,
+          75.0,
+          6.5
+        ]
+      },
+      "Body": {
+        "BScale": [
+          2.0,
+          150.0,
+          6.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          805.0,
+          6.0,
+          2.0
+        ],
+        "Translate": [
+          74.0,
+          1.0,
+          6.5
+        ]
+      },
+      "Body": {
+        "BScale": [
+          150.0,
+          2.0,
+          6.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          10.0,
+          2.0,
+          150.0
+        ],
+        "Translate": [
+          150.0,
+          75.0,
+          6.5
+        ]
+      },
+      "Body": {
+        "BScale": [
+          2.0,
+          150.0,
+          6.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          805.0,
+          6.0,
+          2.0
+        ],
+        "Translate": [
+          75.0,
+          149.0,
+          6.5
+        ]
+      },
+      "Body": {
+        "BScale": [
+          150.0,
+          2.0,
+          6.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Padding",
+      "Transform": {
+        "Translate": [
+          75.0,
+          75.0,
+          4.5
+        ],
+        "Scale": [
+          150.0,
+          150.0,
+          4.0
+        ]
+      },
+      "Asset": {
+        "Shape": "Box",
+        "Texture": "Floor_Level2.png",
+        "TextureResizeMode": true,
+        "TextureResize": [ 10, 10 ]
+
+
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          18.0,
+          18.0,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          20.0,
+          1.5,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          8.5,
+          25.6,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          4.0,
+          1.5,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          8.8,
+          21.8,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1.5,
+          5.9,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          28.7,
+          16.5,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1.5,
+          5.1,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          32.5,
+          16.9,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          6.0,
+          1.5,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          36.3,
+          16.4,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1.5,
+          5.2,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          39.6,
+          14.6,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          5.0,
+          1.5,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          50.0,
+          7.0,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1.5,
+          9.0,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          50.0,
+          21.0,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1.5,
+          6.5,
+          4.5
+        ]
+      }
+    },
+
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          46.8,
+          26.5,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1.5,
+          4.5,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          135.0,
+          7.0,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1.5,
+          9.0,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          106.0,
+          6.9,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1.5,
+          9.0,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          68.0,
+          26.0,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1.5,
+          9.0,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          17.0,
+          34.5,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          7.0,
+          7.0,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          12.0,
+          41.0,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          6.0,
+          6.0,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          23.0,
+          44.7,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          27.7,
+          1.5,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          36.0,
+          41.4,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1.5,
+          5.0,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          53.3,
+          39.9,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          33.2,
+          1.5,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          47.5,
+          29.5,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          20.4,
+          1.5,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          46.7,
+          34.5,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1.5,
+          8.4,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          101.1,
+          31.0,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1.5,
+          13.9,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          104.5,
+          37.1,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          5.0,
+          1.5,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          108.0,
+          34.9,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1.5,
+          6.0,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          108.3,
+          42.4,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          11.0,
+          9.0,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          121.7,
+          47.7,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          23.5,
+          1.5,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          123.3,
+          59.1,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1.5,
+          7.0,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          123.3,
+          52.0,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          11.5,
+          7.0,
+          4.5
+        ]
+      }
+    },
+
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          122.3,
+          37.1,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          27.3,
+          1.5,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          127.4,
+          30.7,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1.5,
+          11.0,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          92.1,
+          51.5,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1.5,
+          6.0,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          99.4,
+          59.0,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1.5,
+          6.0,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          127.4,
+          30.7,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1.5,
+          11.0,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          92.1,
+          51.5,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1.5,
+          6.0,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          95.8,
+          55.3,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          8.9,
+          1.5,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          103.5,
+          62.7,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          9.6,
+          1.5,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          57.1,
+          44.2,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1.5,
+          7.0,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          44.0,
+          44.3,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1.5,
+          7.0,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          50.8,
+          57.0,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          5.0,
+          1.5,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          16.0,
+          49.6,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          9.9,
+          8.4,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          18.0,
+          59.6,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          6.0,
+          6.2,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          15.7,
+          68.5,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          7.0,
+          1.5,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          11.4,
+          71.8,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1.5,
+          8.0,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          7.2,
+          76.6,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          9.6,
+          1.5,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          34.8,
+          66.0,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          17.0,
+          1.5,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          44.1,
+          69.0,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1.5,
+          7.5,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          47.3,
+          73.5,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          8.0,
+          1.5,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          62.7,
+          73.5,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          9.0,
+          1.5,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          68.1,
+          81.0,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1.5,
+          13.5,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          71.6,
+          88.5,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          8.5,
+          1.5,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          76.6,
+          86.2,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1.5,
+          6.5,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          57.2,
+          81.5,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          20.0,
+          1.5,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          46.5,
+          83.5,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1.5,
+          5.5,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          43.2,
+          87.0,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          5.0,
+          1.5,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          39.9,
+          85.3,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1.5,
+          8.8,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          26.0,
+          90.5,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          29.1,
+          1.5,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          10.6,
+          92.7,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1.5,
+          5.9,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          104.2,
+          75.2,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          39.5,
+          1.5,
+          4.5
+        ]
+      }
+    },
+
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          125.2,
+          84.2,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          13.5,
+          1.5,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          132.8,
+          86.7,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1.5,
+          6.4,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          139.8,
+          90.7,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          15.0,
+          1.5,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          94.8,
+          24.8,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          11.0,
+          1.5,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          106.0,
+          87.0,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1.5,
+          7.1,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          93.6,
+          93.5,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          9.7,
+          1.0,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          97.9,
+          96.5,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1.0,
+          5.0,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          107.3,
+          99.6,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          20.0,
+          1.0,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          135.6,
+          102.8,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          24.0,
+          1.5,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          122.8,
+          105.1,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1.5,
+          6.0,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          120.7,
+          108.6,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          6.0,
+          1.0,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          116.7,
+          110.7,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1.5,
+          5.0,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          112.6,
+          114.1,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          9.0,
+          1.5,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          107.2,
+          117.3,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1.5,
+          8.0,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          102.6,
+          122.3,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          10.8,
+          1.5,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          96.4,
+          125.0,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1.5,
+          7.0,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          96.4,
+          138.3,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1.5,
+          17.0,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          116.5,
+          118.9,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1.5,
+          8.0,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          123.2,
+          138.0,
+          9.5
+        ]
+      },
+      "Body": {
+        "BScale": [
+          50.0,
+          1.5,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          116.0,
+          131.2,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          15.6,
+          1.5,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          87.9,
+          39.2,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          15.6,
+          1.5,
+          4.5
+        ]
+      }
+    },
+
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          82.8,
+          59.9,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1.5,
+          7.0,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          28.8,
+          107.7,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          18.2,
+          1.5,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          18.6,
+          111.6,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          2.0,
+          9.5,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          18.4,
+          117.2,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          15.9,
+          1.5,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          6.6,
+          117.2,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          6.9,
+          1.5,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          41.4,
+          115.6,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1.5,
+          35.0,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          41.4,
+          139.8,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          1.5,
+          12.8,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          35.5,
+          114.2,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          9.0,
+          1.5,
+          4.5
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          25,
+          65,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          2.0,
+          2.0,
+          2.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          25,
+          65,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          71,
+          38,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          2.0,
+          2.0,
+          2.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          71,
+          38,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          92,
+          46,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          2.0,
+          2.0,
+          2.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          92,
+          46,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          56,
+          73,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          2.0,
+          2.0,
+          2.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          56,
+          73,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          78,
+          38,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          2.0,
+          2.0,
+          2.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          77.5,
+          38.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          106.5,
+          72.5,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          2.0,
+          2.0,
+          2.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          106.5,
+          72.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          106.5,
+          69.5,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          2.0,
+          2.0,
+          2.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          106.5,
+          69.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          106.5,
+          66.5,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          2.0,
+          2.0,
+          2.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          106.5,
+          66.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          83.0,
+          75,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          2.0,
+          2.0,
+          2.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          73.5,
+          75,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          2.0,
+          2.0,
+          2.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          73.5,
+          75,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          83.0,
+          75,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          80.5,
+          75,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          2.0,
+          2.0,
+          2.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          80.5,
+          75,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          52.5,
+          73,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          2.0,
+          2.0,
+          2.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          52.5,
+          73,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          23.5,
+          63,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          2.0,
+          2.0,
+          2.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          23.5,
+          63,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          78.0,
+          75,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          2.0,
+          2.0,
+          2.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          78.0,
+          75,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          75.5,
+          75,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          2.0,
+          2.0,
+          2.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          75.5,
+          75,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          92.0,
+          43.0,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          2.0,
+          2.0,
+          2.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          92.0,
+          43.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Platform",
+      "Transform": {
+        "Scale": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Translate": [
+          75,
+          38,
+          9.0
+        ]
+      },
+      "Body": {
+        "BScale": [
+          2.0,
+          2.0,
+          2.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          75,
+          38.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          9.7,
+          25.8,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          7.1,
+          25.8,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          8.7,
+          18.1,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          8.7,
+          20.8,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          8.7,
+          23.4,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          11.2,
+          18.1,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          13.7,
+          18.1,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          16.1,
+          18.1,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          18.6,
+          18.1,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          21.1,
+          18.1,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          23.5,
+          18.1,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          25.7,
+          18.1,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          27.9,
+          18.1,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          28.7,
+          17.3,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          28.8,
+          15.2,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          31.0,
+          16.8,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          32.8,
+          16.8,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          34.6,
+          16.8,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          36.3,
+          17.8,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          36.2,
+          15.1,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          38.0,
+          14.7,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          39.8,
+          14.7,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          41.1,
+          14.7,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          50.0,
+          3.2,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          50.0,
+          5.3,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          50.0,
+          9.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          50.0,
+          5.3,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          50.0,
+          7.3,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          50.0,
+          11.3,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          50.0,
+          18.4,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          50.0,
+          20.7,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          50.0,
+          22.9,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          78.1,
+          3.8,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          78.1,
+          6.9,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          78.1,
+          10.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          78.1,
+          13.1,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          78.1,
+          16.2,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          78.1,
+          19.3,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          78.1,
+          22.4,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          67.9,
+          22.4,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          67.9,
+          25.4,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          67.9,
+          28.4,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          106.0,
+          4.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          106.0,
+          7.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          106.0,
+          10.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          135.1,
+          4.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          135.1,
+          7.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          135.1,
+          10.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          135.1,
+          10.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          19.3,
+          31.4,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          16.8,
+          31.4,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          14.3,
+          31.4,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          19.3,
+          34.4,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          16.8,
+          34.4,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          14.3,
+          34.4,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          14.1,
+          36.9,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          16.8,
+          37.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          19.4,
+          37.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          46.9,
+          27.7,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          46.9,
+          25.3,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          46.8,
+          37.2,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          46.9,
+          34.6,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          46.9,
+          31.7,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          56.1,
+          29.4,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          53.0,
+          29.4,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          50.0,
+          29.4,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          47.0,
+          29.4,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          44.4,
+          29.4,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          41.5,
+          29.4,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          38.6,
+          29.4,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          46.8,
+          27.7,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          46.8,
+          25.3,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          13.7,
+          39.9,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          13.7,
+          42.6,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          10.7,
+          39.9,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          10.7,
+          42.6,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          10.4,
+          44.9,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          10.7,
+          42.6,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          13.6,
+          44.8,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          16.6,
+          44.8,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          19.6,
+          44.8,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          22.6,
+          44.8,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          25.6,
+          44.8,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          28.6,
+          44.8,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          31.6,
+          44.8,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          34.6,
+          44.8,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          36.0,
+          42.6,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          36.0,
+          39.8,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          39.0,
+          39.9,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          42.0,
+          39.9,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          45.0,
+          39.9,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          48.0,
+          39.9,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          51.0,
+          39.9,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          54.0,
+          39.9,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          57.0,
+          39.9,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          60.0,
+          39.9,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          63.0,
+          39.9,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          66.0,
+          39.9,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          69.0,
+          39.9,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          44.0,
+          40.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          44.0,
+          43.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          44.0,
+          46.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          57.0,
+          40.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          57.0,
+          43.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          57.0,
+          46.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          68.0,
+          40.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          68.0,
+          43.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          68.0,
+          46.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          49.0,
+          56.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          52.0,
+          56.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          82.0,
+          56.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          82.0,
+          59.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          82.0,
+          62.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          90.1,
+          24.6,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          92.8,
+          24.6,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          95.5,
+          24.6,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          98.2,
+          24.6,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          100.8,
+          24.6,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          100.8,
+          27.6,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          100.8,
+          30.6,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          100.8,
+          33.6,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          100.8,
+          36.6,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          103.1,
+          37.2,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          105.1,
+          37.2,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          108.1,
+          37.2,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          111.1,
+          37.2,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          114.1,
+          37.2,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          117.1,
+          37.2,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          120.1,
+          37.2,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          123.1,
+          37.2,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          126.1,
+          37.2,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          129.1,
+          37.2,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          132.1,
+          37.2,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          135.1,
+          37.2,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          108.1,
+          34.2,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          108.1,
+          31.2,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          127.4,
+          34.6,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          127.4,
+          31.6,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          127.4,
+          28.6,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          127.4,
+          25.6,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          80.3,
+          38.4,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          83.3,
+          38.4,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          86.3,
+          38.4,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          89.3,
+          38.4,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          92.3,
+          38.4,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          95.3,
+          38.4,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          103.6,
+          39.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          106.6,
+          39.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          109.6,
+          39.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          112.6,
+          39.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          103.6,
+          42.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          106.6,
+          42.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          109.6,
+          42.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          112.6,
+          42.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          103.6,
+          45.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          106.6,
+          45.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          109.6,
+          45.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          112.6,
+          45.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          92.2,
+          49.4,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          92.2,
+          52.4,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          111.1,
+          47.4,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          114.1,
+          47.4,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          117.1,
+          47.4,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          120.1,
+          47.4,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          123.1,
+          47.4,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          126.1,
+          47.4,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          129.1,
+          47.4,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          131.1,
+          47.4,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          118.7,
+          50.1,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          121.7,
+          50.1,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          124.7,
+          50.1,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          127.7,
+          50.1,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          118.7,
+          53.8,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          121.7,
+          53.8,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          124.7,
+          53.8,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          127.7,
+          53.8,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          92.0,
+          55.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          95.0,
+          55.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          98.0,
+          55.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          99.5,
+          57.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          99.5,
+          60.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          100.5,
+          62.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          103.6,
+          62.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          106.7,
+          62.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          123.3,
+          57.2,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          123.3,
+          60.2,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          12.5,
+          47.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          15.5,
+          47.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          18.5,
+          47.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          12.5,
+          49.3,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          15.5,
+          47.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          18.5,
+          47.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          12.5,
+          51.9,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          15.5,
+          51.9,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          18.5,
+          51.9,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          16.3,
+          57.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          19.3,
+          57.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          16.3,
+          60.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          19.3,
+          60.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          4.3,
+          75.8,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          7.4,
+          75.8,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          10.4,
+          75.8,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          11.3,
+          72.7,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          11.3,
+          69.7,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          14.3,
+          68.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          17.5,
+          68.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          28.5,
+          65.25,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          31.5,
+          65.25,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          34.5,
+          65.25,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          37.5,
+          65.25,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          40.5,
+          65.25,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          43.8,
+          65.25,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          43.8,
+          68.25,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          43.8,
+          72.75,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          47.3,
+          72.75,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          50.0,
+          72.75,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          59.3,
+          72.75,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          62.3,
+          72.75,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          65.3,
+          72.75,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          68.2,
+          75.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          68.2,
+          78.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          68.2,
+          81.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          68.2,
+          84.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          68.2,
+          88.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          71.8,
+          88.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          75.0,
+          88.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          76.5,
+          83.75,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          76.5,
+          85.84,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          76.5,
+          87.75,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          10.6,
+          93.7,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          10.6,
+          90.25,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          12.5,
+          90.25,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          15.5,
+          90.25,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          18.5,
+          90.25,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          21.5,
+          90.25,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          24.5,
+          90.25,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          27.5,
+          90.25,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          30.5,
+          90.25,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          33.5,
+          90.25,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          36.5,
+          90.25,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          39.8,
+          90.25,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          39.8,
+          87.25,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          39.8,
+          84.25,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          39.8,
+          81.25,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          41.8,
+          86.7,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          44.0,
+          86.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          46.5,
+          85.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          46.5,
+          81.7,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          48.5,
+          81.2,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          51.5,
+          81.2,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          54.5,
+          81.2,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          57.5,
+          81.2,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          60.5,
+          81.2,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          63.5,
+          81.2,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          66.5,
+          81.2,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          41.6,
+          99.4,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          41.6,
+          102.4,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          41.6,
+          105.4,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          41.6,
+          108.4,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          41.6,
+          111.4,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          41.6,
+          114.4,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          41.6,
+          117.4,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          41.6,
+          120.4,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          41.6,
+          123.4,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          41.6,
+          126.4,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          41.6,
+          130.4,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          11.6,
+          116.9,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          14.6,
+          116.9,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          17.6,
+          116.9,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          20.6,
+          116.9,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          23.6,
+          116.9,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          18.5,
+          114.1,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          18.6,
+          111.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          18.6,
+          108.3,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          21.6,
+          108.3,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          24.6,
+          108.3,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          27.6,
+          108.3,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          30.6,
+          108.3,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          33.6,
+          108.3,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          36.6,
+          108.3,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          32.4,
+          114.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          35.4,
+          114.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          38.4,
+          114.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          99.5,
+          138.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          102.5,
+          138.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          105.5,
+          138.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          108.5,
+          138.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          111.5,
+          138.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          114.5,
+          138.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          117.5,
+          138.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          120.5,
+          138.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          123.5,
+          138.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          126.5,
+          138.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          129.5,
+          138.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          132.5,
+          138.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          135.5,
+          138.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          138.5,
+          138.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          141.5,
+          138.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          145.5,
+          138.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          109.8,
+          130.8,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          112.8,
+          130.8,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          115.8,
+          130.8,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          118.8,
+          130.8,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          121.8,
+          130.8,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          96.5,
+          126.7,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          96.5,
+          122.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          96.5,
+          124.6,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          96.5,
+          126.7,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          98.5,
+          122.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          101.5,
+          122.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          103.5,
+          122.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          106.3,
+          122.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          106.3,
+          119.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          106.3,
+          116.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          107.3,
+          113.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          110.3,
+          113.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          113.3,
+          113.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          116.3,
+          113.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          116.3,
+          116.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          116.3,
+          119.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          116.3,
+          122.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          116.3,
+          111.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          116.3,
+          108.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          119.3,
+          108.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          122.3,
+          108.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          122.3,
+          105.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          122.3,
+          102.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          125.3,
+          102.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          128.3,
+          102.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          131.3,
+          102.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          134.3,
+          102.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          137.3,
+          102.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          140.3,
+          102.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          143.3,
+          102.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          146.3,
+          102.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          89.8,
+          93.25,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          92.8,
+          93.25,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          95.8,
+          93.25,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          98.8,
+          93.25,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          98.8,
+          96.25,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          98.8,
+          99.25,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          101.8,
+          99.25,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          104.8,
+          99.25,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          107.8,
+          99.25,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          110.8,
+          99.25,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          113.8,
+          99.25,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          116.8,
+          99.25,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          85.7,
+          75.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          88.7,
+          75.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          91.7,
+          75.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          94.7,
+          75.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          97.7,
+          75.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          100.7,
+          75.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          103.7,
+          75.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          106.7,
+          75.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          109.7,
+          75.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          112.7,
+          75.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          115.7,
+          75.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          118.7,
+          75.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          121.7,
+          75.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          106.0,
+          89.4,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          106.0,
+          86.4,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          106.0,
+          83.4,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          119.5,
+          84.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          122.5,
+          84.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          125.5,
+          84.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          128.5,
+          84.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          131.5,
+          84.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          132.9,
+          86.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          132.9,
+          90.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          135.9,
+          90.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          138.9,
+          90.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          141.9,
+          90.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          144.9,
+          90.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          8.5,
+          116.4,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          6.0,
+          116.4,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          4.5,
+          116.4,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          96.4,
+          116.4,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          96.4,
+          127.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          96.4,
+          129.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          96.4,
+          130.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          96.4,
+          132,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          96.4,
+          133.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          96.4,
+          135.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          96.4,
+          136.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          96.4,
+          138,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          96.4,
+          139.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          96.4,
+          141,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          96.4,
+          142.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          96.4,
+          144,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          96.4,
+          145.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          96.4,
+          146,
+          9.0
+        ]
+      }
+    },
+
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          41.4,
+          133.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          41.4,
+          136.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          41.4,
+          139.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          41.4,
+          142.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Tree",
+      "Transform": {
+        "Scale": [
+          5.0,
+          5.0,
+          5.0
+        ],
+        "Translate": [
+          41.4,
+          145.5,
+          9.0
+        ]
+      }
+    },
+
+    {
+      "DataFile": "Shooter",
+      "Transform": {
+        "Translate": [
+          4.4,
+          30.3,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Shooter",
+      "Transform": {
+        "Translate": [
+          45.0,
+          11.6,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Shooter",
+      "Transform": {
+        "Translate": [
+          74.8,
+          39.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Shooter",
+      "Transform": {
+        "Translate": [
+          100.0,
+          50.6,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Shooter",
+      "Transform": {
+        "Translate": [
+          143.2,
+          45.6,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Shooter",
+      "Transform": {
+        "Translate": [
+          122.9,
+          80.6,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Shooter",
+      "Transform": {
+        "Translate": [
+          21.7,
+          70.4,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Shooter",
+      "Transform": {
+        "Translate": [
+          81.0,
+          81.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Shooter",
+      "Transform": {
+        "Translate": [
+          104.0,
+          19.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Shooter",
+      "Transform": {
+        "Translate": [
+          6.0,
+          103.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Shooter",
+      "Transform": {
+        "Translate": [
+          45.0,
+          94.0,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Shooter",
+      "Transform": {
+        "Translate": [
+          42.5,
+          141.7,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Shooter",
+      "Transform": {
+        "Translate": [
+          131.0,
+          96.0,
+          9.0
+        ]
+      }
+    },
+
+    {
+      "DataFile": "Boss2",
+      "Transform": {
+        "Translate": [
+          27.5,
+          32.3,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Boss2",
+      "Transform": {
+        "Translate": [
+          68.35,
+          119.3,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Boss2",
+      "Transform": {
+        "Translate": [
+          125.3,
+          16.7,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Shooter",
+      "Transform": {
+        "Translate": [
+          36.1,
+          28.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Shooter",
+      "Transform": {
+        "Translate": [
+          20.1,
+          28.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Charger",
+      "Transform": {
+        "Translate": [
+          3.1,
+          60.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Charger",
+      "Transform": {
+        "Translate": [
+          64.5,
+          14.6,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Charger",
+      "Transform": {
+        "Translate": [
+          136.7,
+          69.1,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Charger",
+      "Transform": {
+        "Translate": [
+          92.1,
+          12.8,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Charger",
+      "Transform": {
+        "Translate": [
+          7.1,
+          60.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Charger",
+      "Transform": {
+        "Translate": [
+          16.1,
+          100.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Charger",
+      "Transform": {
+        "Translate": [
+          21.1,
+          100.5,
+          9.0
+        ]
+      }
+    },
+    {
+      "DataFile": "PointLight",
+      "Transform": {
+        "Scale": [
+          2.0,
+          2.0,
+          2.0
+        ],
+        "Translate": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "DataFile": "Hint",
+      "Transform": {
+        "Translate": [
+          15.0,
+          9.0,
+          6.0
+        ]
+      },
+
+      "HintStr": "Oh a new world! Looks like a maze..and i sense 3 strong enemies! Let's explore!"
+    },
+    {
+      "DataFile": "Hint",
+      "Transform": {
+        "Translate": [
+          35.0,
+          25.0,
+          6.0
+        ]
+      },
+
+      "HintStr": "Here's one of em! Let's take him on!!"
+    },
+    {
+      "DataFile": "Hint",
+      "Transform": {
+        "Translate": [
+          106.4,
+          18.1,
+          6.0
+        ]
+      },
+
+      "HintStr": "Here's another!"
+    },
+    {
+      "DataFile": "Hint",
+      "Transform": {
+        "Translate": [
+          73.0,
+          37.4,
+          6.0
+        ]
+      },
+
+      "HintStr": "Oh a small space I can go through..but there's fast colliders..BEWARE!!"
+    },
+    {
+      "DataFile": "Hint",
+      "Transform": {
+        "Translate": [
+          18.5,
+          52.3,
+          6.0
+        ]
+      },
+
+      "HintStr": "BEWARE!! Colliders ahead!!"
+    },
+    {
+      "DataFile": "Hint",
+      "Transform": {
+        "Translate": [
+          84.0,
+          91.0,
+          6.0
+        ]
+      },
+
+      "HintStr": "Here's another mini-boss..LETS GOO!!"
+    },
+    {
+      "DataFile": "Hint",
+      "Transform": {
+        "Translate": [
+          43.7,
+          94.9,
+          6.0
+        ]
+      },
+
+      "HintStr": "Here's another mini-boss..LETS GOO!!"
+    }
+  ]
+}
